@@ -1,2 +1,2 @@
 # Federated-learning
-DIFFERENTIAL PRIVACY AND BYZANTINE RESILIENCE IN FEDERATED LEARNING, Research project
+Differential privacy and byzantine resilience in federated learning, a research project
